@@ -1,6 +1,10 @@
 /* Den här applikationen hämtar information om ankommande och avgående flyg från Dubais flygplats. 
 *  Ett anrop för avgående, och ett för ankommande. 
+<<<<<<< HEAD
 *   
+=======
+*  
+>>>>>>> 06907b71b66fb79055be2f84ada73b32ec6d64db
 *
 */
 
