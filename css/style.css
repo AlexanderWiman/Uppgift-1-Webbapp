@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+
+h2 {
+    font-size: 3em;
+    color: rgb(31, 31, 31);
+    font-weight: bolder;
+    margin: 5px;
+}
+
+@font-face {
+    font-family: "Skyfont";
+    src: url("../Skyfont.otf");
+    }
+
+#content {
+    width: auto;
+    margin: 150px auto 0 auto; 
+    border: solid 1px lightgrey;
+    padding: 5px 0 5px 10px;
+}
+
+#list {
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: Skyfont;
+    font-size: 3.5em;
+    color: black;
+  }
